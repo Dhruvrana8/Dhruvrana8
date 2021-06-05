@@ -8,5 +8,3 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 📚 I’m currently learning  full-stack web and app development.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dhruv-rana-bb94661b4/) [Gmail](mailto:dhruvrana4@gmail.com)
-
-⭐️ From [hazemessam](https://github.com/Dhruvrana8)
